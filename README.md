@@ -2,10 +2,9 @@
 
 I build things around Linux, networking, cybersecurity, backend systems,
 and developer tooling. Most of my projects are either tools I wanted
-for myself or experiments to understand how something works under the hood.
+for myself or experiments to understand how something works 
 
-Currently messing with Rust, Linux internals, distributed systems, and
-security.
+
 
 ### Projects
 
@@ -18,9 +17,3 @@ security.
 
  [walnuticecream.lol](https://walnuticecream.lol)
 
-### Stack
-
-`Python` `Bash` `Java` `JavaScript` `TypeScript` `C` `Rust`
-
-`Linux` `TCP/IP` `Distributed Systems` `Docker` `Nix`
-`PostgreSQL` `MongoDB` `Neo4j` `Cloudflare` `Git`
