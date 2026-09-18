@@ -16,9 +16,7 @@ security.
 
 ### Links
 
-- 🌐 [walnuticecream.lol](https://walnuticecream.lol)
-- 💼 [LinkedIn](YOUR_LINKEDIN)
-- 🐙 [GitHub](https://github.com/WalnutIcecream)
+ [walnuticecream.lol](https://walnuticecream.lol)
 
 ### Stack
 
